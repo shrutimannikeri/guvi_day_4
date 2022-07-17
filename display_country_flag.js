@@ -1,5 +1,3 @@
-// https://restcountries.eu/rest/v2/all -- tryied thi api but not working its giving This site can’t be reached
-
 //use rest api countries API URL-->https://restcountries.com/v3.1/all and display all the country flags in the console
 
 //setup http request;
