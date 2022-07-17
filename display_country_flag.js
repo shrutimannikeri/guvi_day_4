@@ -23,6 +23,9 @@ if(xhr.status>=200 && xhr.status<300){
     })
    console.log(flags)
 }
+else{
+    console.log("ERROR..")
+}
 }
 xhr.send()
 
